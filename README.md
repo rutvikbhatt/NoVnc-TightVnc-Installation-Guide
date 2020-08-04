@@ -38,7 +38,6 @@
 8. 	Go to windows start TightVNC server under the 'Access Control' tab Allow loopback connections 
 9. 	open browser and type YOURIPADDRESS/vnc.html
 	on the left open settings and advanced settings under websocket 
-
 	This detail needs to be added only once:
 	enter you IP adress as Host and Port: 8000 and Path: websockify
 
