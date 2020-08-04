@@ -1,10 +1,10 @@
 # NoVnc-TightVnc-Installation-Guide
-1. Install tightvnc from: https://www.tightvnc.com/ (choose setup type: custom installation) needs admin permission. 
-After installation set a password for authentication.
+	1. Install tightvnc from: https://www.tightvnc.com/ (choose setup type: custom installation) needs admin permission. 
+	After installation set a password for authentication.
 
-2. Download node.js from: https://nodejs.org/en/
-(download the recommanded version)
-After installation go to windows and open node.js command prompt 
+2. 	Download node.js from: https://nodejs.org/en/
+	(download the recommanded version)
+	After installation go to windows and open node.js command prompt 
 
 3. Now open: https://www.npmjs.com/package/@maximegris/node-websockify 
 
