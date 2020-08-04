@@ -20,10 +20,10 @@ Once the installation is finished create a folder named 'novnc' on desktop and c
 
 5. Now open the Node.js command prompt and type: 
 
-(1).	cd desktop
-(2).	cd novnc
-(3).	cd websockify
-(4).	node websockify.js
+	(1).	cd desktop
+	(2).	cd novnc
+	(3).	cd websockify
+	(4).	node websockify.js
 
 (And click on private and personal network permissions)
 websockify part is completed and proxying perfectly 
@@ -31,7 +31,7 @@ websockify part is completed and proxying perfectly
 6. Now go to: https://nginx.org/en/download.html?_ga=2.235179334.610747622.1588686511-49539150.1588686511
 Download nginx latest version for windows and copy paste it in the new folder named 'web' along side websockify folder 
 
-Now open 'web' folder and find folder named 'html' and delete the two files in this folder 
+Now open 'web' folder and find folder named 'html' and delete the two html files in this folder 
 Now go to: https://github.com/novnc/noVNC
 clone or download this file and copy paste it in the 'html' folder
 
