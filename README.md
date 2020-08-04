@@ -8,7 +8,7 @@ After installation press Start and open node.js command prompt
 3. Run the following command in Node.js command prompt (ref. [npm.js](https://www.npmjs.com/package/@maximegris/node-websockify)): 	
 ```npm install --save node-websockify ```
 
-4. Once the installation is finished create a folder named 'novnc' on desktop and create a subfolder named 'websockify'. Now download the [```websockify.js```](https://github.com/rutvikbhatt/NoVnc-TightVnc-Installation-Guide/blob/master/websockify.js) or [abcdef](websockify.js)that is provided in the current repository:	
+4. Once the installation is finished create a folder named 'novnc' on desktop and create a subfolder named 'websockify'. Now download the [```websockify.js```](https://raw.githubusercontent.com/rutvikbhatt/NoVnc-TightVnc-Installation-Guide/master/websockify.js) that is provided in the current repository:	
 
 5. Now open the Node.js command prompt and type:
 ```
