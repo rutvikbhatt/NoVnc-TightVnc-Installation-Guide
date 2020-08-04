@@ -47,3 +47,5 @@ Port: 8000
 Path: websockify
 ```
 10. Click on connect and your noVNC is working! 
+
+***Note: This document is inspired from [this tutorial by JIBSIL](https://www.youtube.com/watch?v=NYEyyVDsapw).***
